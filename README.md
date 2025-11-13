@@ -11,4 +11,3 @@ Incluye configuración de switches, subinterfaces y pruebas de conectividad.
 *Objetivo:*
 - Segmentar la red por departamentos.
 - Permitir comunicación entre VLANs mediante subinterfaces.
--
